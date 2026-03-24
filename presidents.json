@@ -1,1 +1,30 @@
-
+[
+  {
+    "number": 1,
+    "name": "George Washington",
+    "state": "Virginia",
+    "years": "1789-1797",
+    "hobby": "Horseback riding"
+  },
+  {
+    "number": 2,
+    "name": "John Adams",
+    "state": "Massachusetts",
+    "years": "1797-1801",
+    "hobby": "Writing"
+  },
+  {
+    "number": 3,
+    "name": "Thomas Jefferson",
+    "state": "Virginia",
+    "years": "1801-1809",
+    "hobby": "Architecture"
+  },
+  {
+    "number": 16,
+    "name": "Abraham Lincoln",
+    "state": "Kentucky",
+    "years": "1861-1865",
+    "hobby": "Reading"
+  }
+]
